@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(120deg, #667eea, #764ba2);
+    color: #fff;
+}
+.card, .dashboard {
+    background: #222;
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    background: #28a745;
+    border: none;
+    color: white;
+}
+a { color: #4dd0e1; text-decoration: none; }
+.info p { text-align: left; }
